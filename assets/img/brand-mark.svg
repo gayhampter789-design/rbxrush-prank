@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RBX Rush">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1dcff"/>
+      <stop offset=".48" stop-color="#c18cff"/>
+      <stop offset="1" stop-color="#7a45d0"/>
+    </linearGradient>
+  </defs>
+  <path d="M16 9h23c12 0 19 6 19 16 0 7-4 12-10 14l10 16H42L33 42h-5v13H16V9zm12 11v11h9c4 0 7-2 7-6s-3-5-7-5h-9z" fill="url(#g)"/>
+  <path d="M8 32 17 23l7 7-9 9z" fill="#fff" opacity=".82"/>
+</svg>
